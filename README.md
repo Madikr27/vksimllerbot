@@ -33,3 +33,6 @@ pkg install python git  -y
 python vksimller.py
 
 или py vksimller.py
+=========================================================
+
+или можете запустить файл .exe
